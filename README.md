@@ -1,15 +1,10 @@
-<h1>Hi, I'm Hanif Kung'unde! <br/><a href="https://github.com/Hanifshawss23/hanifshawss23">Data Analyst</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Researcher</a>
+<h1>Hi, I'm Hanif Kung'unde! <br/><a href="https://github.com/Hanifshawss23/hanifshawss23">Data Analyst</a>, <a href="https://www.linkedin.com/in/hanif-kung-unde-805690293/">Researcher</a>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b>Excel</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  
 - <b>Power BI</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>R software</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
