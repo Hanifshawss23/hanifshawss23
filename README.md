@@ -9,7 +9,7 @@
 - <b>R software</b>
   
 - <b>Python</b>
-  
+     - [Loan Default Risk Analysis](https://github.com/Hanifshawss23/loan_default_analysis) - EDA and underwriting threshold recommendations using Pandas and Seaborn.  
 
 
 
